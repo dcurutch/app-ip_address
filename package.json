@@ -1,4 +1,4 @@
-{
+ {
   "name": "@acme/app-ip_address",
   "version": "0.1.0",
   "description": "An IAP product serving IP address management functions.",
@@ -19,4 +19,4 @@
   "dependencies": {
     "ip-cidr": "^2.0.12"
   }
-  }
+}
